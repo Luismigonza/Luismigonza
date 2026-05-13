@@ -105,8 +105,6 @@
 
 </div>
 
-> ⚠️ Para activar el snake, sigue los pasos de setup al final de este README.
-
 ---
 
 ## `$ cat activity.json`
